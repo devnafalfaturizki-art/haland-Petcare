@@ -3,10 +3,10 @@
 
 | | |
 |---|---|
-| **Versi** | 2.0 (Super Lengkap) |
-| **Status** | MVP Development |
+| **Versi** | 1.0 |
+| **Status** | Development |
 | **Tipe Sistem** | Single Clinic (bukan SaaS, bukan multi-tenant) |
-| **Target Eksekutor** | GitHub Copilot Chat (Codespace) |
+
 
 > Dokumen ini adalah rujukan **tunggal dan mutlak**. Copilot/AI Assistant WAJIB membaca seluruh dokumen ini sebelum menulis kode apapun, dan tidak boleh mengambil keputusan arsitektur di luar yang tertulis di sini. Jika ada kebutuhan yang tidak tercakup, tanyakan dulu — jangan berasumsi.
 
